@@ -52,3 +52,7 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+#Project specific
+*.mp4
+*.mp3
+
