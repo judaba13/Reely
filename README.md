@@ -1,4 +1,4 @@
 Reely
 =====
 
-Automatic highlight reel generator for soccer matches
+Automatic trailer generator for action movies
